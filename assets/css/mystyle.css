@@ -1,0 +1,47 @@
+logo{
+        -webkit-text-size-adjust: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        line-height: 1.42857143;
+        font-size: 16px;
+        color: #008a60;
+        box-sizing: border-box;
+        word-break: break-word;
+        font-family: HelveticaNeue65_Medium;
+        text-align: center;
+        display: block;
+        padding: 10px 0 20px 0;
+}
+
+header-top{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    line-height: 1.42857143;
+    color: #333333;
+    font-family: "HelveticaNeue65_Medium";
+    word-break: normal;
+    font-size: 16px;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    padding: 0 0 0 191px;
+    float: left;
+    position: relative;
+    z-index: 1041;
+    padding-left: 0px;
+    height: auto;
+}
+home{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    line-height: 1.42857143;
+    color: #333333;
+    font-family: "HelveticaNeue65_Medium";
+    word-break: normal;
+    font-size: 16px;
+    box-sizing: border-box;
+    width: 100%;
+    float: left;
+    background: rgba(255,255,255,0.35);
+    min-height: 30px;
+    -webkit-box-shadow: -1px 0px 3px rgba(0,0,0,0.3);
+}
